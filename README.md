@@ -1,7 +1,8 @@
-# graphic-programming-journey
+# graphics-programming-journey
 
 <p>I like documenting my progress , so that i can engage myself during free time which excites me to complete my progress..!! so yeah i'm looking forward to it </p>
 <details>
+  <h1 align="centre">c++</h1>
 <summary>Show more</summary>
 
 <p>
