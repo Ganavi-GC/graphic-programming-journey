@@ -11,7 +11,7 @@ I'm currently strengthening my fundamentals.
 </p>
 
 <p>
-<a href="https://youtu.be/s1Rejo1q_1k?si=weezwyAog6EgtWB8">Watch the resource</a> this seriesd was engaging but i didn't feel this gave me a strong base,so i jumped to this
+<a href="https://youtu.be/s1Rejo1q_1k?si=weezwyAog6EgtWB8">Watch the resource</a> this series was engaging but i didn't feel this gave me a strong base,so i jumped to this
 <a href="https://www.learncpp.com/?utm_source=chatgpt.com#google_vignette">Watch the resource</a>
 </p>
 
