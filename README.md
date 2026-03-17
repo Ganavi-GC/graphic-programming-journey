@@ -11,7 +11,7 @@ I'm currently strengthening my fundamentals.
 </p>
 
 <p>
-<a href="https://youtu.be/-TkoO8Z07hI?si=1hJPtKQuP_6UhB9w">Watch the resource</a>
+<a href="https://youtu.be/s1Rejo1q_1k?si=weezwyAog6EgtWB8">Watch the resource</a>
 </p>
 
 <h1 align="center">Mathematics</h1>
