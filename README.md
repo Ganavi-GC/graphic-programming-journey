@@ -16,4 +16,6 @@ I'm currently strengthening my fundamentals.
 </p>
 
 <h1 align="center">Mathematics</h1>
+  <h1 align="center">Opengl</h1>
+  <a href="https://learnopengl.com/Getting-started/OpenGL">Watch the resource</a>
 
