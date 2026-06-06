@@ -20,5 +20,6 @@ I'm currently strengthening my fundamentals.
   <p> with this documentation I have been following cherno and his game engine series , I'll link those below , as well as there is a book called "Real Time Rendering" best resource /i have ever read </p>
 <a href="https://youtu.be/W3gAzLwfIP0?si=xsUQKHLNCtWGz4zJ">Watch resource</a>
 <p>above is OpenGl playlist of Cherno this and documenttation is more than enough , if you are gonna start Vulkan</p>
+<h1 align="center">Game Engine </h1>
 <a href="https://youtu.be/JxIZbV_XjAs?si=6A9VjWxqwN4spxac">Watch resource</a>
 <p>definitely worth watching </p>
