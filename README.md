@@ -10,11 +10,15 @@ I'm currently strengthening my fundamentals.
 
 <p>
 <a href="https://youtu.be/s1Rejo1q_1k?si=weezwyAog6EgtWB8">Watch the resource</a> this series was engaging but i didn't feel this gave me a strong base,so i jumped to this
-<a href="https://www.learncpp.com/?utm_source=chatgpt.com#google_vignette">Watch the resource</a>
+<a href="https://youtu.be/18c3MTX0PK0?si=Y6_LhlaSZWejbRqk">Watch the resource</a> I never knew c++ would be this cool , Cherno is the best for you to gain knowledge which nobody teachs , he is so good that he will make you love this language 
 </p>
 
 <h1 align="center">Mathematics</h1>
 <a href="https://youtu.be/fNk_zzaMoSs?si=pIbwtcvB7jtGnwYb">Watch resource</a>
   <h1 align="center">Opengl</h1>
   <a href="https://learnopengl.com/Getting-started/OpenGL">Watch the resource</a>
-
+  <p> with this documentation I have been following cherno and his game engine series , I'll link those below , as well as there is a book called "Real Time Rendering" best resource /i have ever read </p>
+<a href="https://youtu.be/W3gAzLwfIP0?si=xsUQKHLNCtWGz4zJ">Watch resource</a>
+<p>above is OpenGl playlist of Cherno this and documenttation is more than enough , if you are gonna start Vulkan</p>
+<a href="https://youtu.be/JxIZbV_XjAs?si=6A9VjWxqwN4spxac">Watch resource</a>
+<p>definitely worth watching </p>
