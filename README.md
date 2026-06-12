@@ -17,8 +17,9 @@ I'm currently strengthening my fundamentals.
 <a href="https://youtu.be/fNk_zzaMoSs?si=pIbwtcvB7jtGnwYb">Watch resource</a>
   <h1 align="center">Opengl</h1>
   <a href="https://learnopengl.com/Getting-started/OpenGL">Watch the resource</a>
-  <p> with this documentation I have been following cherno and his game engine series , I'll link those below , as well as there is a book called "Real Time Rendering" best resource /i have ever read </p>
+  <p> with this documentation I have been following cherno,the learnOpenGL makes a lot of sense if you read it after watching cherno videos ,docs.GL is really helpful while writing code </p>
 <a href="https://youtu.be/W3gAzLwfIP0?si=xsUQKHLNCtWGz4zJ">Watch resource</a>
+<a href="https://docs.gl/">Watch resource</a>
 <p>above is OpenGl playlist of Cherno this and documenttation is more than enough , if you are gonna start Vulkan</p>
 <h1 align="center">Game Engine </h1>
 <a href="https://youtu.be/JxIZbV_XjAs?si=6A9VjWxqwN4spxac">Watch resource</a>
